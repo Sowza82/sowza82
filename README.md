@@ -1,8 +1,8 @@
-- 🔭 Estou sempre focada em melhorar minhas habilidades
-- 🌱 Atualmente estou aprendendo **PYTHON** e **REACT**
-- 💬 Tenho conhecimento sobre **HTML,CSS** e **JAVASCRIPT**
-- 📫 E-mail para contato: ta**thyannesg18@gmail.com**
-- ⚡ Curiosidade: Estou sempre me jogando em novos
+- 🔭 Estou sempre focada em melhorar minhas habilidades.
+- 🌱 Atualmente estou aprendendo **PYTHON** e **REACT.**
+- 💬 Tenho conhecimento sobre **HTML,CSS** e **JAVASCRIPT.**
+- 📫 E-mail para contato: **tathyannesg18@gmail.com.**
+- ⚡ Curiosidade: Estou sempre me jogando em novos desafios.
 
 ### 😎 Sobre mim
 
@@ -13,7 +13,7 @@ print("Vamos lá!")
   "pais": "Brasil",
   "idade": 42,
   "idioma": ["Portugues"],
-  "gostos": ["musica", "series", "doramas", "culinária", "pets"]
+  "gostos": ["musica", "series", "doramas", "culinaria", "pets"]
 
 }
 ```
