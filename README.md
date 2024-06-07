@@ -1,6 +1,4 @@
-Claro! Aqui está o README formatado para ser adicionado ao seu perfil do GitHub:
 
-```markdown
 # 🌟 Bem-vindo ao meu Perfil GitHub
 
 🔭 Estou sempre focada em melhorar minhas habilidades.
