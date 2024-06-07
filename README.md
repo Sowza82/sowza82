@@ -35,4 +35,3 @@ perfil = {
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ```
 
-Basta copiar e colar o conteúdo acima no seu arquivo `README.md` no GitHub. Se precisar de mais alguma coisa, estou à disposição!
