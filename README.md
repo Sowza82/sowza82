@@ -13,7 +13,6 @@ print("Vamos lá!")
 
 perfil = {
   "pais": "Brasil",
-  "idade": 42,
   "idioma": ["Português"],
   "gostos": ["música", "séries", "doramas", "culinária", "pets"]
 }
