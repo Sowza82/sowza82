@@ -12,7 +12,7 @@ print("Vamos lá!")
 
 perfil = {
   "nome": "Tatiane Souza",
-  "apelido": "Tay Sowza",
+  "apelido": "Tay",
   "pais": "Brasil",
   "idioma": ["Português"],
   "objetivo": "Me tornar uma desenvolvedora web Front End habilidosa",
