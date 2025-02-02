@@ -11,7 +11,7 @@
 print("Vamos lá!")
 
 perfil = {
-  "nome": "Tatiane Santos de Souza",
+  "nome": "Tatiane Souza",
   "apelido": "Tay Sowza",
   "pais": "Brasil",
   "idioma": ["Português"],
