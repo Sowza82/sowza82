@@ -51,14 +51,20 @@
 
 ---
 
-### 💬 Um pouco sobre mim
-
-```python
 perfil = {
   "nome": "Tatiane Souza",
   "apelido": "Tay",
-  "de onde": "Brasil",
-  "foco": "Interfaces com propósito",
-  "em constante evolução": True,
-  "curiosidades": ["música 🎵", "séries 🎬", "culinária 🍝", "pets 🐾", "tecnologia 💻"]
+  "local": "Brasil",
+  "foco": "Desenvolver interfaces criativas, responsivas e acessíveis",
+  "mentalidade": "em constante evolução e aprendizado",
+  "curiosidades": [
+    "música 🎵",
+    "séries 🎬",
+    "doramas 📺",
+    "BTS 💜",
+    "culinária 🍝",
+    "pets 🐾 (em memória da minha filhota Lobby 🐕)",
+    "tecnologia 💻"
+  ],
+  "frase": "Código é minha ferramenta, a solução é meu destino."
 }
