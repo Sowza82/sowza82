@@ -51,20 +51,29 @@
 
 ---
 
+### 💫 Um pouco mais sobre mim
+
+Sou movida por café, curiosidade e propósito. Me encontrei no front-end, mas adoro explorar os bastidores da tecnologia também. Falo o idioma dos códigos com paixão e acredito que boas interfaces contam histórias — e eu adoro contar a minha através de cada projeto.  
+E como boa ariana com alma criativa, gosto de mergulhar fundo no que amo — seja aprendendo uma nova linguagem, assistindo doramas ou ouvindo BTS 💜.
+
+Aqui vai um "debug" carinhoso da minha essência em forma de código:
+
+---
+
 perfil = {
   "nome": "Tatiane Souza",
   "apelido": "Tay",
-  "local": "Brasil",
-  "foco": "Desenvolver interfaces criativas, responsivas e acessíveis",
-  "mentalidade": "em constante evolução e aprendizado",
+  "signo": "Áries ♈",
+  "país": "Brasil 🇧🇷",
+  "foco": "Interfaces com propósito",
+  "em_constante_evolucao": True,
   "curiosidades": [
     "música 🎵",
-    "séries 🎬",
-    "doramas 📺",
-    "BTS 💜",
+    "séries e doramas 🎬",
     "culinária 🍝",
-    "pets 🐾 (em memória da minha filhota Lobby 🐕)",
-    "tecnologia 💻"
+    "tecnologia 💻",
+    "BTS 💜",
+    "pets 🐾 (com amor eterno por minha filhota Lobby 🐕)"
   ],
-  "frase": "Código é minha ferramenta, a solução é meu destino."
+  "frase": "Não é só sobre codar — é sobre deixar um traço, um afeto, uma história em cada pixel."
 }
