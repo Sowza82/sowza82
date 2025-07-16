@@ -58,8 +58,7 @@ E como boa ariana com alma criativa, gosto de mergulhar fundo no que amo — sej
 
 Aqui vai um "debug" carinhoso da minha essência em forma de código:
 
----
-
+```python
 perfil = {
   "nome": "Tatiane Souza",
   "apelido": "Tay",
