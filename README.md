@@ -1,61 +1,64 @@
-# 🌟 Bem-vindo ao meu Perfil GitHub
+<h1 align="center">✨ Oi, eu sou a Tatiane Souza (Tay) ✨</h1>
+<p align="center">👩‍💻 Desenvolvedora Front-End em construção | Foco em interfaces criativas, responsivas e acessíveis.</p>
 
-🔭 Estou sempre focada em melhorar minhas habilidades.
-- 🌱 Atualmente estou aprendendo **React**, **Python** e **Cloud Computing (AWS)**.
-- 💬 Tenho conhecimento sobre **HTML**, **CSS**, **JavaScript**, **UI/UX**, **DevOps** e **Banco de Dados**.
-- ⚡ Curiosidade: Estou sempre me jogando em novos desafios e explorando novas tecnologias.
+---
 
-### 😎 Sobre mim
+### 🚀 Tecnologias que uso no dia a dia:
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px">
+  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23633EA5?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+---
+
+### 🌱 Explorando mais sobre:
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px">
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Cloud](https://img.shields.io/badge/Cloud-AWS,%20Oracle,%20Escola%20da%20Nuvem-%23735BED?style=for-the-badge&logo=amazonaws&logoColor=white)
+![APIs](https://img.shields.io/badge/REST%20APIs-%23CC6699?style=for-the-badge&logo=api&logoColor=white)
+![IA Generativa](https://img.shields.io/badge/IA%20Generativa-%236B21A8?style=for-the-badge&logo=openai&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-%230A66C2?style=for-the-badge&logo=devops&logoColor=white)
+
+</div>
+
+---
+
+### 🧠 Atualmente aprendendo
+
+- Desenvolvimento de Software  
+- Boas práticas de engenharia de software  
+- Aplicações com Java + APIs REST  
+- Testes, versionamento e integração contínua
+
+---
+
+### 💡 Alguns projetos que me orgulho:
+
+- **Receitas Front**: App para cadastro de receitas com integração a API.
+- **Cozinha20**: Site colaborativo com HTML, CSS, JS e banco de dados.
+- **Infraestrutura com Terraform**: Automatização de serviços AWS.
+- **Painel Cloud**: Métricas e monitoramento de ambiente na nuvem.
+
+---
+
+### 💬 Um pouco sobre mim
 
 ```python
-print("Vamos lá!")
-
 perfil = {
   "nome": "Tatiane Souza",
   "apelido": "Tay",
-  "pais": "Brasil",
-  "idioma": ["Português"],
-  "objetivo": "Me tornar uma desenvolvedora web Front End habilidosa",
-  "gostos": ["música", "séries", "doramas", "culinária", "pets"]
+  "de onde": "Brasil",
+  "foco": "Interfaces com propósito",
+  "em constante evolução": True,
+  "curiosidades": ["música 🎵", "séries 🎬", "culinária 🍝", "pets 🐾", "tecnologia 💻"]
 }
-```
-
-### 📚 Formação e Cursos
-
-- **ONE (Oracle + Alura)**: Desenvolvedora Júnior - 6 formações concluídas (Grupo 7/2024) - Atualmente na trilha AlumniONE
-- **Elas Na Tech (Já Brasil)**: Desenvolvimento Web (11/05/23 a 09/10/23)
-- **Proz (Portal Tech)**: Front End (12/12/23 a 09/05/24)
-- **Salvador Tech (Unifel)**:
-  - Front End (14/12/23 a 05/04/24)
-  - Design Gráfico (20/03/24 a 22/05/24)
-  - UX/UI Designer (12/06/24 - em andamento)
-- **Descodificadas (Descoder Tech)**: Front-end (25/03/24 - em andamento)
-- **Escola da Nuvem**: Curso de Cloud Computing (concluído)
-- **AWS re/Start**: Graduação em Cloud Computing (concluído)
-- **Proz - Trilha Cloud (Turma 08)**: Sistema de Controle de Entidades com AWS (concluído)
-- **Outros Cursos e Bootcamps de curta duração**
-
-### 💻 Projetos em Destaque
-
-- **Receitas Front**: Aplicação Web para cadastro de receitas, integração com API e banco de dados.
-- **Cozinha20**: Projeto integrador de equipe, site com HTML, CSS, JS e banco de dados.
-- **Sistema de Controle de Entidades**: Implementação de um sistema integrado à AWS (Trilha Cloud).
-- **Gerenciamento de Usuários AWS**: Projeto para administração de permissões e acessos usando AWS IAM.
-- **Infraestrutura como Código (IaC)**: Automatização de infraestrutura na AWS utilizando Terraform.
-- **Painel de Monitoramento Cloud**: Desenvolvimento de um painel para visualização de métricas e logs de serviços AWS.
-
-### 📬 Contate-me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowza82-tatiane-6a9519273)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tathysowza_82/)
-
-### 📚 Linguagens e Tecnologias
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=devops&logoColor=white)
