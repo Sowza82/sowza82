@@ -60,19 +60,19 @@ Aqui vai um "debug" carinhoso da minha essência em forma de código:
 
 ```python
 perfil = {
-  "nome": "Tatiane Souza",
-  "apelido": "Tay",
-  "signo": "Áries ♈",
-  "país": "Brasil 🇧🇷",
-  "foco": "Interfaces com propósito",
-  "em_constante_evolucao": True,
-  "curiosidades": [
-    "música 🎵",
-    "séries e doramas 🎬",
-    "culinária 🍝",
-    "tecnologia 💻",
-    "BTS 💜",
-    "pets 🐾 (com amor eterno por minha filhota Lobby 🐕)"
-  ],
-  "frase": "Não é só sobre codar — é sobre deixar um traço, um afeto, uma história em cada pixel."
+    "nome": "Tatiane Souza",
+    "apelido": "Tay",
+    "signo": "Áries",
+    "país": "Brasil",
+    "foco": "Interfaces com propósito",
+    "em_constante_evolucao": True,
+    "curiosidades": [
+        "música",
+        "séries e doramas",
+        "culinária",
+        "tecnologia",
+        "BTS 💜",
+        "pets (com amor eterno por minha filhota Lobby 🐕)"
+    ],
+    "frase": "Não é só sobre codar — é sobre deixar um traço, um afeto, uma história em cada pixel."
 }
